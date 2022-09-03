@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me. 
-   LINKEDIN PROFILE LINK -- www.linkedin.com/in/ganeshyevle9011/
+   LINKEDIN PROFILE LINK -- www.linkedin.com/in/ganeshyevle/
    MY GMAIL -- ganeshyevle9011@gmail.com
    MY MOBILE No. -- 9011256915
 
