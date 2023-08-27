@@ -7,8 +7,10 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 ---
 ## 💞️ Education
 - DY. Patil Institute Of Engineering and Technology Ambi, Pune
+  
   BE: Computer Engineering
 - Government Polytechnic Ambad
+  
   Diploma: Computer Engineering
 
 ***
