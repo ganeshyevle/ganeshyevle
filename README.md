@@ -27,13 +27,10 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 
 - **Title: Gemini Clone Web Application | Link**
 
-> Gemini Clone: A React-based chatbot emulating Google's Gemini AI.
-
-> Integrated Google Gemini API for natural language processing.
-
-> **Features**: Google Gemini API Integration, Responsive Design, Simulated Typing Effect.
-
-> **Tech Stack**: React, CSS
+> **Gemini Clone**: A React-based chatbot emulating Google's Gemini AI.\
+> Integrated Google Gemini API for natural language processing.\
+> **Features**: Google Gemini API Integration, Responsive Design, Simulated Typing Effect.\
+> **Tech Stack**: React | CSS | \
 > Continuously exploring enhancements for improved functionality.
 
 
