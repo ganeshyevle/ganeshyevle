@@ -31,7 +31,7 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 > Continuously exploring enhancements for improved functionality.
 
 
-- **Title: Usability Hub Responsive Clone Website | Link**
+- **Title: Usability Hub Responsive Clone Website | [Link](https://usabilityhubconeweb.netlify.app/)**
 
 > HTML, CSS, JavaScript: Proficient in building interactive, fully responsive and visually appealing web interfaces.\
 > HTML5: Applied modern web development standards for enhanced functionality.\
@@ -53,7 +53,7 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 - [Certified AWS Cloud Practitioner](https://drive.google.com/file/d/16I1iYTCtERcYcwmsKFNwFZ5YWp67Geh8/view) | *AWS*
 > Expertise in cloud fundamentals, including Cloud Concepts, Security and Compliance, Cloud Technology and Services, and Billing, Pricing, and Support
 
-- [Completed Junior Java Full Stack Development training](https://drive.google.com/file/d/1KAV7tVwG0EqVNyTMfkA0uTpdbWUtnpCO/view) | *offered by Generation India in collaboration with Vinsys IT Service, Pune*
+- [Completed Junior Java Full Stack Development Training](https://drive.google.com/file/d/1KAV7tVwG0EqVNyTMfkA0uTpdbWUtnpCO/view) | *offered by Generation India in collaboration with Vinsys IT Service, Pune*
 > I possess diverse skills in modern Full stack web development.
 - [Learn ReactJs Introduction Course](https://drive.google.com/file/d/1UnD8nlerPjZQNVE6EMQ1qW5pA34S_3TC/view) | *Codecademy*
 > Applied HTML5, JavaScript, and CSS in React.js development and acquired skills in front-end development using React.js.
