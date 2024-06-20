@@ -39,15 +39,15 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 > HTML, CSS, JavaScript: Proficient in building interactive, fully responsive and visually appealing web interfaces.\
 > HTML5: Applied modern web development standards for enhanced functionality.\
 > Time Management: Demonstrated ability to efficiently allocate time for project completion.\
-> Developed a fully responsive website clone, showcasing adaptability across various screen sizes and devices.\
-
-> **Skills**: HTML · Front-end Coding · designingg · Website Building · Web Development · Front-End Development · Cascading Style Sheets (CSS)
+> Developed a fully responsive website clone, showcasing adaptability across various screen sizes and devices.
 
 
-- **Landing PageLanding Page**
-
->I created a Responsive Landing Page Using Html And CSS.I created a Responsive Landing Page Using Html And CSS.
-> **Skills: HTML** · Front-end Coding · designingg · Website Building · Web Development · Front-End Development · Cascading Style Sheets (CSS) · JavaScript
+- **Title: Data De-duplication using Blockchain with Advanced Security in Cloud Computing**
+  
+> Implemented innovative data de-duplication system using Java and JavaScript.\
+> Integrated advanced security features for enhanced data integrity in Cloud Computing.\
+> Proficient in web technologies (JSP, HTML, CSS) and tools (Eclipse IDE, Apache Tomcat 8.0).\
+> Achieved increased storage utilization through optimal de-duplication of small data blocks.
 
 ---
 - 🚀 **Currently Exploring** Constantly learning and expanding my skill set to stay up-to-date with the latest trends and technologies in front-end development. Exploring topics like CSS-in-JS, animations, and state management.
