@@ -23,8 +23,7 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
   
 ## 🚀 Projects
 
-- **Title: Gemini Clone Web Application | Link**
-
+- **Title: Gemini Clone Web Application | [Link](https://gemini-ai-clone-reactjs.netlify.app/)**
 > **Gemini Clone**: A React-based chatbot emulating Google's Gemini AI.\
 > Integrated Google Gemini API for natural language processing.\
 > **Features**: Google Gemini API Integration, Responsive Design, Simulated Typing Effect.\
