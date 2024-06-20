@@ -16,9 +16,9 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 ***
 
 ## 👀Technical Skills!
-- Programming Languages: C | Python | Java
-- Web Devwlopment | HTML | CSS | JavaScript |  REACTJS | PYTHON | MYSQL |
-- Tools - Git | GitHub | MS Office
+- Programming Languages: | JavaScript | Python | Java |
+- Web Devwlopment: | HTML | CSS | JavaScript |  REACT JS | MYSQL |
+- Tools: | Git | GitHub | MS Office |
   
 ## 🚀 Projects
 
