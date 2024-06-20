@@ -34,14 +34,12 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 > Continuously exploring enhancements for improved functionality.
 
 
-- **MY_PORTFOLIOMY_PORTFOLIO**
+- **Title: Usability Hub Responsive Clone Website | Link**
 
-> Associated with Oasis InfobyteAssociated with Oasis Infobyte
-
-> It is a responsive portfolio website, I have created some sections using flex property through CSS, also some paragraph tags, headings tags, and anchor tags.
-> For this website, I have used HTML and CSS.
-> I have used the VISUAL STUDIO code for creating this website.
-> It is a responsive portfolio website, I have created some sections using flex property through CSS, also some paragraph tags, headings tags, and anchor tags.
+> HTML, CSS, JavaScript: Proficient in building interactive, fully responsive and visually appealing web interfaces.\
+> HTML5: Applied modern web development standards for enhanced functionality.\
+> Time Management: Demonstrated ability to efficiently allocate time for project completion.\
+> Developed a fully responsive website clone, showcasing adaptability across various screen sizes and devices.\
 
 > **Skills**: HTML · Front-end Coding · designingg · Website Building · Web Development · Front-End Development · Cascading Style Sheets (CSS)
 
