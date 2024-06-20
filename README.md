@@ -15,17 +15,26 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
 
 ***
 
-## 👀Technical Skills!
+## 👀Technical IT Skills!
 - Programming Languages: | JavaScript | Python | Java |
-- Web Devwlopment: | HTML | CSS | JavaScript |  REACT JS | MYSQL |
-- Tools: | Git | GitHub | MS Office |
+- Web Devwlopment: | HTML | CSS | JavaScript | Bootstrap | REACT JS |
+- Database Management: | MySQL |
+- Cloud Computing: | AWS |
+- Version Control: | Git & GitHub |
+- Communication | Teamwork | Problem Solving |
   
 ## 🚀 Projects
 
-- **Paytm Clone WebsitePaytm Clone Website**
+- **Title: Gemini Clone Web Application | Link**
 
-> Associated with PHN Technology Pvt LtdAssociated with PHN Technology Pvt Ltd
-> **Skills**: HTML5 · Time Management · HTML, CSS, Javascript · Cascading Style Sheets (CSS)
+> Gemini Clone: A React-based chatbot emulating Google's Gemini AI.
+
+> Integrated Google Gemini API for natural language processing.
+
+> **Features**: Google Gemini API Integration, Responsive Design, Simulated Typing Effect.
+
+> **Tech Stack**: React, CSS
+> Continuously exploring enhancements for improved functionality.
 
 
 - **MY_PORTFOLIOMY_PORTFOLIO**
