@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [*Ganesh Yevle!*](https://ganeshyevle.github.io/MY_PORTFOLIO/)
+# 👋 Hi, I’m [*Ganesh Yevle!*](https://portfolio-ganesh-yevle.netlify.app/)
 
 ### 🌐 About Me
 
@@ -62,11 +62,11 @@ Versatile and ambitious Computer Engineering student with a passion for problem-
   
 - 💞️ I’m always excited to collaborate on **Web Development** projects, where I can contribute my skills and learn from fellow developers.
   
-- 🌐 Explore my [**Portfolio**](https://ganeshyevle.github.io/MY_PORTFOLIO/) to see my work and projects in action.
+- 🌐 Explore my [**Portfolio**](https://portfolio-ganesh-yevle.netlify.app/) to see my work and projects in action.
 ---
 #### 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ganeshyevle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ganeshyevle6915/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/ganeshyevle)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/ganesh_yevle9011/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/919011256915/?text=Hi%20Ganesh%2C%20Whatsup)
